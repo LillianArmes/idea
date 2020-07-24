@@ -1,6 +1,4 @@
-[Style](./style.editorconfig)
-
-# idea-plugins
+# plugins
 https://plugins.jetbrains.com/plugin/10080-rainbow-brackets <br>
 https://plugins.jetbrains.com/plugin/12178-atom-onedark-theme <br>
 https://plugins.jetbrains.com/plugin/9836-randomness <br>
