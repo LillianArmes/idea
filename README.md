@@ -1,4 +1,4 @@
-[Style](./.editorconfig)
+[Style](./style.editorconfig)
 
 # idea-plugins
 https://plugins.jetbrains.com/plugin/10080-rainbow-brackets <br>
